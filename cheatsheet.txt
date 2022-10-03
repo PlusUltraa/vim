@@ -1,0 +1,16 @@
+-- Increment
+say you have a sequance of code:
+
+data[0]
+data[0]
+data[0]
+data[0]
+
+and you want to increment the index of the array.
+A fast way to do so is to get in visual block, select all indexes and press: g + ctrl a
+                                 visual line, select all lines with indexes and press: g + ctrl a
+
+data[1]
+data[2]
+data[3]
+data[4]
